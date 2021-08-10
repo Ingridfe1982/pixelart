@@ -1,0 +1,17 @@
+{
+  "name": "pixelart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "fabric": "^4.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
